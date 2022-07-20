@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'develop',url: 'https://github.com/RincyIssac/Risun_Myinsuranceapp.git'
+                git branch: 'develop',url: 'https://github.com/sreejithtsnair/selfmysinsurance.git'
 	        }
         }        
         stage('Unit/Integration tests') {
