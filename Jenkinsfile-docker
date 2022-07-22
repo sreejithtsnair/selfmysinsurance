@@ -59,4 +59,3 @@ pipeline {
 }
 
 //This is a docker file for Jenkins
-// Added to Git // for test
